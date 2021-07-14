@@ -1,0 +1,3 @@
+A Gabor filter encodes edges. While constructing the filter you can specify the orientation of the edges it will be sensitive to. Convolving an image with a filter bank of gabors, where each is sensitive to a different orientation and scale, generates multiple responses for all elements in the image that indicate the local orientations of the edges. Gabor filters let you encode the image into local orientations.
+
+Gabor filters are a common model of simple cells found in the early stages of the visual cortex. Simple cells respond to the presence of oriented edges in the visual stimulus.
